@@ -1,0 +1,278 @@
+.mainbody{
+
+background-image: url("bg.jpg");
+background-size: cover;
+height: 100vh;
+width: 100%;
+background-repeat: no-repeat;
+border-bottom-right-radius: 50%;
+border-bottom-left-radius: 50%;
+
+}
+*{
+
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bolder;
+}
+
+.imgclass
+{
+	margin-top: 70px;
+	text-transform: uppercase;
+	text-align: center;
+}
+.text{
+
+	height: 100px;
+	width: 50px !important;
+}
+
+.fontosm
+{
+	font-size: 130px;
+	color: #90ee90;
+}
+.parallax{
+	height: 30vw;
+	background: cover;
+	background-image: url("bg7.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	display: flex;
+	align-items: center;
+}
+input[type="text"]
+{
+	width: 25vw;
+}
+textarea{
+
+	width: 52vw;
+}
+.parallax2{
+	height: 40vw;
+	background: cover;
+	background-image: url("bg6.jpg");
+	background-position: 50%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	display:flex;
+	align-items: center;
+	
+}
+.btn1{
+
+	background-color: transparent;
+	color: black !important;
+
+}
+.count
+{
+position: absolute;
+top:0;
+bottom: 0;
+left: 0;
+right: 0;
+padding-top: 12vh;
+color: white;
+}
+
+.fontosm2
+{
+	font-size:260px;
+	color: #90ee90;
+
+	margin-top: 260px;
+}
+.count
+{
+	margin-top: 50px;
+}
+
+.footer
+{
+	background-image: url("bg8.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+.right h4
+{
+	margin-top: 200px;
+	color: white;
+}
+.paraimg
+{
+height: 400px; 
+width: 400px; 
+border-radius: 50%;
+
+}
+
+@media(min-width: 320px) and (max-width: 480px){
+
+
+
+.mainbody{
+
+background-image: url("bg.jpg");
+background-size: cover;
+height: 100vh!important;
+width: 100%!important;
+background-repeat: no-repeat;
+border-bottom-right-radius: 50%;
+border-bottom-left-radius: 50%;
+
+}
+.imgclass
+{
+	margin-top: 70px;
+	text-transform: uppercase;
+	text-align: center;
+
+}
+.imgclass h1{
+
+	font-size: 40px!important;
+}
+.text{
+
+	height: 100px;
+	width: 50px !important;
+}	
+
+.fontosm
+{
+	font-size: 65px;
+	color: #90ee90;
+}
+.parallax{
+	height: 70vw!important;
+	background: cover;
+	background-image: url("bg7.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	display: flex;
+	align-items: center!important;
+}
+.parallax h1{
+
+	font-size: 14px;
+	text-align: center;
+}
+.about p{
+
+	font-size: 12px;
+}
+
+
+.btn1{
+
+	background-color: transparent;
+	color: black !important;
+
+}
+.count
+{
+position: absolute;
+top:0;
+bottom: 0;
+left: 0;
+right: 0;
+padding-top: 12vh;
+color: white;
+}
+.count 
+{
+
+	font-size: 18px!important;
+}
+
+.fontosm2
+{
+	font-size:70px;
+	color: #90ee90;
+
+	margin-top: 150px;
+}
+.count
+{
+	margin-top: 20px;
+}
+
+.footer
+{
+	background-image: url("bg8.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+.right h4
+{
+	margin-top: 100px;
+	color: white;
+	font-size: 12px;
+}
+.footer p{
+
+	font-size: 12px;
+}
+.paraimg{
+height: 200px!important; 
+width: 200px; 
+border-radius: 50%;
+
+}
+
+.parallax2{
+	height: 170vw;
+	background: cover;
+	background-image: url("bg6.jpg");
+	background-position: 50%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	display:flex;
+	align-items: center;
+	
+}
+.parallax2 h3{
+	font-size: 12px;
+	margin-top: 0px;
+}
+.parallax2 p{
+	font-size: 10px;
+}
+.btn2{
+
+	background-color: transparent;
+	color: white !important;
+	padding: 10px 12px;
+	margin-left: 30%;
+	margin-top: 10px;
+	background-color: skyblue;
+
+}
+.obj{
+
+	width: 100vw!important;
+	margin-left: 0px!important;
+}
+
+
+.footer
+    {
+	background-image: url("bg8.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+/*.right h4
+{
+	margin-top: 0px;
+	color: white;
+}*/
+
+}
+
