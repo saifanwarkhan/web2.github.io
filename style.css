@@ -279,7 +279,7 @@ border-radius: 50%;
 	background-image: url("bg8.jpg");
 	background-size: cover;
 	background-position: center;
-	height: 100vh;
+	height: 100vh! important;
 }
 /*.right h4
 {
